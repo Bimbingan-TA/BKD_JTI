@@ -1,7 +1,6 @@
-# Pengembang Sistem Informasi Beban Kerja Dosen Studi Kasus Jurusan Teknologi Informasi Polinema Berbasis Web
-Laporan Akhir - Sistem Informasi Beban Kinerja Dosen JTI
+# Tugas Akhir - D3
 
-# Anggota Kelompok : 
-Amadeus Gilang NIM.1731710040 
-
-Prestyan Yudatama NIM.1731710154
+## Pengembang Sistem Informasi Beban Kerja Dosen Studi Kasus Jurusan Teknologi Informasi Polinema Berbasis Web
+### Anggota Kelompok : ###
+* Amadeus Gilang NIM.1731710040
+* Prestyan Yudatama NIM.1731710154
